@@ -1,5 +1,5 @@
 title: Vonge
-
+remote-theme: Vonge
 plugins:
   - jekyll-bookshop
   - cloudcannon-jekyll-bookshop
